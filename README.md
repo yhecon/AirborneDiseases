@@ -21,7 +21,7 @@ The "$dir/data/master_japan.dta" is used. Variables are listed in Table 2.
 Codes: 
 1.Figures and Tables: 
 These codes produce main figures and tables 
-Figures
+-Figures
 	- "$dir/code/main/fig2.do"
 	- "$dir/code/main/fig3.do"
 	- "$dir/code/main/fig4.do"
@@ -31,7 +31,7 @@ These codes produce main figures and tables
 
 2.Appendix: 
 These codes produce Appendix figures and tables 
-Appendix Figures
+-Appendix Figures
 	- "$dir/code/main/figA1.do"
 	- "$dir/code/main/figA2.do"
 	- "$dir/code/main/figA3.do"
@@ -39,7 +39,7 @@ These codes produce Appendix figures and tables
 	- "$dir/code/main/figA5.do"
 	- "$dir/code/main/figA6.do"
 
-Appendix Tables
+-Appendix Tables
 	- "$dir/code/main/TableA2.do"
 	- "$dir/code/main/TableA4.do"
 	- "$dir/code/main/TableA5.do"
