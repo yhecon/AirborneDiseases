@@ -39,7 +39,7 @@ These codes produce Appendix figures and tables
 	- "$dir/code/main/figA5.do"
 	- "$dir/code/main/figA6.do"
 
-	Appendix Tables
+Appendix Tables
 	- "$dir/code/main/TableA2.do"
 	- "$dir/code/main/TableA4.do"
 	- "$dir/code/main/TableA5.do"
